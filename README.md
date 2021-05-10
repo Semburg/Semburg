@@ -1,5 +1,5 @@
 
-###   👋.   Hi, I’m Simon Burghardt
+###   👋   Hi, I’m Simon Burghardt
 - 👀 I’m interested in Programming, Web and Technologies
 - 🌱 I’m currently learning MERN technoogies
 
