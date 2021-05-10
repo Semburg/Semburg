@@ -1,8 +1,8 @@
 
-### 👋 Hi, I’m@Simon Burghardt
+###   👋.   Hi, I’m Simon Burghardt
 - 👀 I’m interested in Programming, Web and Technologies
-- 🌱 I’m currently learning Express js on Firebase
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MERN technoogies
+- 
 -  ![Group 1](https://user-images.githubusercontent.com/76205135/117673028-b0945580-b1aa-11eb-9bde-e7e0eaf22937.png)
 
 
