@@ -1,4 +1,3 @@
-![Group 2](https://user-images.githubusercontent.com/76205135/117675645-0cf87480-b1ad-11eb-88a7-eacd8e59508c.png)
 
 ###   👋   Hi, I’m Simon Burghardt
 
